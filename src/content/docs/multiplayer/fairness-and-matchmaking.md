@@ -24,9 +24,9 @@ This also assists the game's Anti-Cheat system in accurately identifying legitim
 
 ### Separate Matchmaking Pools (Platform/Input-based Matchmaking)
 
-For games that uses Input-based or Platform-based Matchmaking: We recommend allowing Gyro and Mixed Input players to select their preferred matchmaking pools.. 
+For games that uses Input-based or Platform-based Matchmaking: We recommend allowing Gyro and Mixed Input players to select their preferred matchmaking pools. 
 
-There can be two types of Matchmaking Pools that Gyro and/or Mixed Input players can join: the Mouse Matchmaking Pool and the Controller Matchmaking Pool.
+There can be two types of Matchmaking Pools that Gyro and/or Mixed Input players can join: the **Mouse Matchmaking Pool** and the **Controller Matchmaking Pool**.
 
 __*Who gets to play in the Mouse Matchmaking Pool with what input method?*__
 
