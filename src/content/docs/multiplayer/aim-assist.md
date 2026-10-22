@@ -104,7 +104,7 @@ some games like ***I Am Your Beast***, ***Cultic***, ***Tom Clancy's Ghost Recon
 This option primarily benefits the Accessibility crowd the most, but it's prove useful for Multiplayer games, while making it easier to manage Cross-Play Matchmaking session. Cross-Play tag to indicate that this user is using a specialized setup.
 
 :::tip{icon="heart"}
-As Multiplayer lobbies shows player's platform icon next to input icon. We personally suggest giving them special badge to indicate mixed input usage.
+As Multiplayer lobbies shows player's platform icon next to input icon. We personally suggest giving them special visual icon badge to indicate mixed input usage.
 
 For more details, refer to [Fairness and Matchmaking](/multiplayer/fairness-and-matchmaking/).
 :::
