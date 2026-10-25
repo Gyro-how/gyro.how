@@ -22,12 +22,10 @@ Using mixed input can confuse the Camera Input's sensitivity scale, as it might 
 
 Input switch may cause the camera's movement threshold to increase unexpectedly.
 
-[video example from both Apex Legends and Sprawl Zero]
+[video example from Apex Legends]
 
-https://youtu.be/SQIal5cXrAI
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SQIal5cXrAI?si=G1ity0NKJTfXGDG_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-https://youtu.be/oRyserPVggA
 
 ### Speed Ramping
 
@@ -35,7 +33,7 @@ If the Joystick input is used while the mouse is also active, the camera may cau
 
 [video example, days gone]
 
-https://youtu.be/vG_U3UOOjWI
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vG_U3UOOjWI?si=xaexRPAQwfyLZhZq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### UI-related camera stutters.
